@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cursorthingy/static/css/main.c658ea38.css",
+    "main.js": "/cursorthingy/static/js/main.f8c0d836.js",
+    "index.html": "/cursorthingy/index.html",
+    "main.c658ea38.css.map": "/cursorthingy/static/css/main.c658ea38.css.map",
+    "main.f8c0d836.js.map": "/cursorthingy/static/js/main.f8c0d836.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c658ea38.css",
+    "static/js/main.f8c0d836.js"
+  ]
+}
